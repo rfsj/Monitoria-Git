@@ -1,9 +1,9 @@
 # Monitoria de Git + Gitflow
 
 ### Autores
-*Fernando do Rego Pessoa de Macedo Neto
+* Fernando do Rego Pessoa de Macedo Neto
 
-*Ricardo Ferreira
+* Ricardo Ferreira
 
 ### Aula:
 
