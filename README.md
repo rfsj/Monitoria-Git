@@ -1,4 +1,4 @@
-# Monitoria de Git + Gitflow
+# Monitoria de Git + GitHub flow
 
 ### Autores
 * Fernando do Rego Pessoa de Macedo Neto
