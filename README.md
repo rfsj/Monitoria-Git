@@ -27,4 +27,4 @@
 
 
 
-**Material desenvolvido para a cadeira de Engenharia de Software do curso de Sistemas de Informação-UFPE**
+**Material para a cadeira de Engenharia de Software do curso de Sistemas de Informação-UFPE**
