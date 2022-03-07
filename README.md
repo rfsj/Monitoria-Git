@@ -18,7 +18,6 @@
 3. Trabalhando com Branchs;
 4. Gitflow;
 5. Issues e Milestones;
-6. Extensões para facilitar a vida - VScode e ~GitHub Desktop~.
 
 ### Desafio
 
