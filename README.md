@@ -29,7 +29,6 @@
 
 [Oh My Git](https://ohmygit.org/)
 
-[Resolução](https://www.youtube.com/watch?v=dnAy6aIbIWo)
 
 
 
