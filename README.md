@@ -3,7 +3,7 @@
 ### Autores
 * Fernando do Rego Pessoa de Macedo Neto
 
-* Ricardo Ferreira
+* Ricardo Ferreira dos Santos Júnior
 
 ### Aula:
 
