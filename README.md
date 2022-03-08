@@ -19,13 +19,6 @@
 
 [Github Cheat Sheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)
 
-### Roteiro
-
-1. Configurando a Ferramenta;
-2. Fazendo o primeiro commit;
-3. Trabalhando com Branchs;
-4. GitHub flow;
-5. Issues e Milestones;
 
 ### Desafio
 
