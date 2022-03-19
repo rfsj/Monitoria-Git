@@ -24,9 +24,7 @@
 
 [Oh My Git](https://ohmygit.org/)
 
-[Link da resolução]
-
-(Ainda não disponível)
+[Link da resolução](https://www.youtube.com/watch?v=dnAy6aIbIWo)
 
 
 
